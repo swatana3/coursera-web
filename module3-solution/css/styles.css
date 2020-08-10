@@ -1,0 +1,22 @@
+/** HEADER **/
+/** HEADER **/
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+#nav-list a {
+  background-color: pink;
+}
+
+.navbar-brand a {
+  color: black;
+}
+
+p {
+  height: 1000px;
+}
+
+#menu-content {
+  background-color: pink;
+}
